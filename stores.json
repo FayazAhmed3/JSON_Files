@@ -1,6 +1,6 @@
 [
     {
-        "SPACE_ID": "D",
+        "SPACE_ID": "C",
         "SPACE_DECOR": "Arabic Diner",
         "IS_STOREFRONT": true,
         "MACADDR": "00 10 7f f1 b0 8e",
@@ -40,7 +40,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "C",
+        "SPACE_ID": "D",
         "SPACE_DECOR": "Greek Patio",
         "IS_STOREFRONT": true,
         "MACADDR": "00107F004A80",

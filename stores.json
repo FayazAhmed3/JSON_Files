@@ -1,6 +1,6 @@
 [
     {
-        "SPACE_ID": "E",
+        "SPACE_ID": "D",
         "SPACE_DECOR": "Arabic Diner",
         "IS_STOREFRONT": true,
         "MACADDR": "00 10 7f f1 b0 8e",
@@ -8,7 +8,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "D",
+        "SPACE_ID": "E",
         "SPACE_DECOR": "Tuscan Café",
         "IS_STOREFRONT": true,
         "MACADDR": "00.10.7F.33.44.55",

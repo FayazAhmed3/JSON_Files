@@ -1,6 +1,6 @@
 [
     {
-        "SPACE_ID": "A",
+        "SPACE_ID": "C",
         "SPACE_DECOR": "Arabic Diner",
         "IS_STOREFRONT": true,
         "MACADDR": "00 10 7f f1 b0 8e",
@@ -24,7 +24,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "C",
+        "SPACE_ID": "A",
         "SPACE_DECOR": "British Pub",
         "IS_STOREFRONT": true,
         "MACADDR": "00-10-7F-40-97-10",

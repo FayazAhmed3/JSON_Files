@@ -29,7 +29,7 @@
         "IS_STOREFRONT": true,
         "MACADDR": "00-10-7F-40-97-10",
         "AREA": "25.001",
-        "OPEN": true
+        "OPEN": false
     },
     {
         "SPACE_ID": "F",

@@ -8,7 +8,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "D",
+        "SPACE_ID": "E",
         "SPACE_DECOR": "Tuscan Café",
         "IS_STOREFRONT": true,
         "MACADDR": "c4.42.68.0f.f9.a5",
@@ -40,7 +40,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "E",
+        "SPACE_ID": "D",
         "SPACE_DECOR": "Greek Patio",
         "IS_STOREFRONT": true,
         "MACADDR": "00107F004A80",

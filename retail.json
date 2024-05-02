@@ -250,5 +250,11 @@
         "VENDOR": "House of Soup",
         "PRODUCT": "Flavoured Water 4 l",
         "PRICE": "22.22"
+    },
+    {
+        "UPC": "12C00019088",
+        "VENDOR": "House of Fayaz",
+        "PRODUCT": "unFlavoured Water 4 l",
+        "PRICE": "22.22"
     }
 ]

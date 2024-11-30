@@ -8,7 +8,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "C",
+        "SPACE_ID": "B",
         "SPACE_DECOR": "Tuscan Café",
         "IS_STOREFRONT": true,
         "MACADDR": "c4.42.68.4f.f2.aa",
@@ -24,7 +24,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "B",
+        "SPACE_ID": "C",
         "SPACE_DECOR": "British Pub",
         "IS_STOREFRONT": true,
         "MACADDR": "c4 42 68 4f f3 74",

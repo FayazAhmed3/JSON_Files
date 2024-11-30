@@ -16,7 +16,7 @@
         "OPEN": true 
     },
     {
-        "SPACE_ID": "B",
+        "SPACE_ID": "A",
         "SPACE_DECOR": "Panasian Diner",
         "IS_STOREFRONT": true,
         "MACADDR": "00:10:7f:ab:cd:ef",
@@ -24,7 +24,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "A",
+        "SPACE_ID": "B",
         "SPACE_DECOR": "British Pub",
         "IS_STOREFRONT": true,
         "MACADDR": "c4 42 68 4f f3 74",

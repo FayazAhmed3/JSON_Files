@@ -24,7 +24,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "C",
+        "SPACE_ID": "D",
         "SPACE_DECOR": "British Pub",
         "IS_STOREFRONT": true,
         "MACADDR": "c4 42 68 4f f3 74",
@@ -32,7 +32,7 @@
         "OPEN": true
     },
     {
-        "SPACE_ID": "D",
+        "SPACE_ID": "C",
         "SPACE_DECOR": "French Bistro",
         "IS_STOREFRONT": true,
         "MACADDR": "00,10,7f,ff,dd,11",
